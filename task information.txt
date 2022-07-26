@@ -1,3 +1,6 @@
 do commit 5 commits in one repo
 
 like that repeat the steps
+
+
+create a repo and do this paratice
